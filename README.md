@@ -1,5 +1,7 @@
 # Bluepill Bot
 
+![Bluepill](https://github.com/jvyden420/bluepillbot/blob/master/bluepill.png)
+
 Welcome to the repo of Discord's most impractical bot.
 
 ## What does it do?
