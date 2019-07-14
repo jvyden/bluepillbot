@@ -1,0 +1,23 @@
+{
+  "name": "bluepillbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvyden420/bluepillbot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord"
+  ],
+  "author": "jvyden420",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/jvyden420/bluepillbot/issues"
+  },
+  "homepage": "https://github.com/jvyden420/bluepillbot#readme"
+}
