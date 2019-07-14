@@ -2,8 +2,18 @@
 
 Welcome to the repo of Discord's most impractical bot.
 
+## What does it do?
+This bot will automagically react to every message it sees with a blue-pill emoji! The impracticality is off the charts!
+
+With this bot, you will immediately kick it because of how useless and annoying it is!
+
+Thats right, its a 100% guarantee that NOBODY WILL LIKE THIS BOT!
+
+Best of all, **ITS FREE!** *AND* RECYCLABLE!
+
+
 ## Setup
-If you don't want to set this up, [invite this bot to your server!](https://discordapp.com/api/oauth2/authorize?client_id=599787587602874393&permissions=64&scope=bot)
+If you don't want to set this up, [invite this bot to your server](https://discordapp.com/api/oauth2/authorize?client_id=599787587602874393&permissions=64&scope=bot)!
 
 As long as you give the bot permissions to add reactions, you should be good to go.
 
@@ -17,6 +27,10 @@ As long as you give the bot permissions to add reactions, you should be good to 
 4. `./alwaysrun`
 
 aaand thats pretty much it
+
+If you want it to react with a different emoji, you can change that in the main.js file at the top. 
+
+*ill probably make a config file soon*
 
 ## License
 
